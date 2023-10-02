@@ -1,2 +1,2 @@
-# CreatorFPSGailesP7
+# CreatorKitFPSGailesP7
 Creating a repo for my FPS project
